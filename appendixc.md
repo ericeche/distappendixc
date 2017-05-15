@@ -531,8 +531,20 @@ Query OK, 0 rows affected (13 min 45.67 sec)
 
 # pac_super_groups.sql
 
-```
 
+
+
+```
+mysql> use Wellpoint_54005New20170409;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> source pac_super_groups.sql;
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 677048 rows affected, 65535 warnings (1 min 45.69 sec)
+Records: 677048  Duplicates: 0  Warnings: 68908
 
 ```
 
