@@ -413,6 +413,57 @@ You can turn off this feature to get a quicker startup with -A
 
 Database changed
 mysql> source Master_IEVA_W_Description.sql;
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+Query OK, 0 rows affected (0.03 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 0 rows affected, 1 warning (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
 Query OK, 0 rows affected, 1 warning (0.00 sec)
 
 Query OK, 0 rows affected, 1 warning (0.03 sec)
@@ -420,112 +471,61 @@ Query OK, 0 rows affected, 1 warning (0.03 sec)
 Query OK, 0 rows affected (0.04 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 
-Query OK, 0 rows affected (0.03 sec)
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected (0.05 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.02 sec)
+
+Query OK, 0 rows affected, 1 warning (0.00 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected, 1 warning (0.03 sec)
+
+Query OK, 0 rows affected (0.04 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 
 Query OK, 0 rows affected, 1 warning (0.01 sec)
 
 Query OK, 0 rows affected, 1 warning (0.02 sec)
 
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected (0.03 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
+Query OK, 0 rows affected (0.02 sec)
 
 Query OK, 0 rows affected, 1 warning (0.03 sec)
 
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.03 sec)
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.03 sec)
-
-Query OK, 0 rows affected (0.04 sec)
-Records: 0  Duplicates: 0  Warnings: 0
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
-
-Query OK, 0 rows affected, 1 warning (0.02 sec)
-
-Query OK, 0 rows affected, 1 warning (0.00 sec)
+Query OK, 0 rows affected (0.00 sec)
 
 Query OK, 0 rows affected (0.01 sec)
 
-Query OK, 0 rows affected (13 min 45.45 sec)
+Query OK, 0 rows affected (14 min 22.20 sec)
 
-Query OK, 0 rows affected (13 min 45.45 sec)
+Query OK, 0 rows affected (14 min 22.20 sec)
 
-Query OK, 0 rows affected (13 min 45.55 sec)
+Query OK, 0 rows affected (14 min 22.30 sec)
 
-Query OK, 0 rows affected (13 min 45.56 sec)
+Query OK, 0 rows affected (14 min 22.32 sec)
 
-Query OK, 0 rows affected (13 min 45.58 sec)
+Query OK, 0 rows affected (14 min 22.34 sec)
 
-Query OK, 0 rows affected (13 min 45.60 sec)
+Query OK, 0 rows affected (14 min 22.36 sec)
 
-Query OK, 0 rows affected (13 min 45.61 sec)
+Query OK, 0 rows affected (14 min 22.39 sec)
 
-Query OK, 0 rows affected (13 min 45.62 sec)
+Query OK, 0 rows affected (14 min 22.42 sec)
 
-Query OK, 0 rows affected (13 min 45.64 sec)
+Query OK, 0 rows affected (14 min 22.44 sec)
 
-Query OK, 0 rows affected (13 min 45.66 sec)
+Query OK, 0 rows affected (14 min 22.46 sec)
 
-Query OK, 0 rows affected (13 min 45.67 sec)
+Query OK, 0 rows affected (14 min 22.48 sec)
 
 ```
 
@@ -541,9 +541,9 @@ You can turn off this feature to get a quicker startup with -A
 
 Database changed
 mysql> source pac_super_groups.sql;
-Query OK, 0 rows affected, 1 warning (0.00 sec)
+Query OK, 0 rows affected (0.03 sec)
 
-Query OK, 677048 rows affected, 65535 warnings (1 min 45.69 sec)
+Query OK, 677048 rows affected, 65535 warnings (1 min 46.53 sec)
 Records: 677048  Duplicates: 0  Warnings: 68908
 
 ```
